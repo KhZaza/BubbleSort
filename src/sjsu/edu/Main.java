@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException {
+        System.out.println("Bubble Sort");
 
 
         Scanner scanner = new Scanner(new File("src/sjsu/edu/arr1-2.txt"));
